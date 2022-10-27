@@ -39,7 +39,7 @@ public class Product {
         this.category = category;
     }
 
-    public String getImageUrl(String image_url) {
+    public String getImageUrl() {
         return imageUrl;
     }
 
